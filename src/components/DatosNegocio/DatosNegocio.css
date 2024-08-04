@@ -1,0 +1,23 @@
+.liDatosNegocio {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.datoNegocio {
+  display: flex;
+  align-items: end;
+}
+.añadirProductoBtn {
+  display: flex;
+  background-color: transparent;
+  border: none;
+  align-items: center;
+  gap: 10px;
+}
+.editarBtn {
+  border: none;
+  background-color: transparent;
+}
+.editarBtn:hover {
+  filter: drop-shadow(2px 2px 5px gray);
+}

@@ -1,0 +1,218 @@
+[
+    {
+        "_id": "66a7d92b8085517ba2c6360f",
+        "titulo": "Arroz Integral",
+        "comercio": "SUPER A",
+        "precio": 6612,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00568400/00568490.jpg?3.0.172d",
+        "descuento": 40,
+        "stock": 325
+    },
+    {
+        "_id": "66a7d92b0c9578c8289afbbf",
+        "titulo": "Aceite de Oliva",
+        "comercio": "COTO",
+        "precio": 2213,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00296100/00296136.jpg?3.0.172d",
+        "descuento": 54,
+        "stock": 196
+    },
+    {
+        "_id": "66a7d92ba6f93d7dbd10a653",
+        "titulo": "Harina de Trigo",
+        "comercio": "ATOMO",
+        "precio": 3064,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00583900/00583951.jpg?3.0.172d",
+        "descuento": 37,
+        "stock": 238
+    },
+    {
+        "_id": "66a7d92b5f81af7b3c0618f6",
+        "titulo": "Leche Entera",
+        "comercio": "SUPER A",
+        "precio": 2360,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00251800/00251875.jpg?3.0.172d",
+        "descuento": 57,
+        "stock": 424
+    },
+    {
+        "_id": "66a7d92bb303c7da6d634a1c",
+        "titulo": "Azúcar Blanca",
+        "comercio": "COTO",
+        "precio": 3627,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00218800/00218834.jpg?3.0.172d",
+        "descuento": 63,
+        "stock": 283
+    },
+    {
+        "_id": "66a7d92bd3375ccab1bf85cb",
+        "titulo": "Cereal de Maíz",
+        "comercio": "ATOMO",
+        "precio": 6449,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00048000/00048068.jpg?3.0.172d",
+        "descuento": 46,
+        "stock": 135
+    },
+    {
+        "_id": "66a7d92b6b70e2fba8c7def9",
+        "titulo": "Galletas",
+        "comercio": "COTO",
+        "precio": 6437,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00553600/00553687.jpg?3.0.172d",
+        "descuento": 67,
+        "stock": 264
+    },
+    {
+        "_id": "66a7d92b3a43b4fbd0c1bdcb",
+        "titulo": "Yogur Natural",
+        "comercio": "COTO",
+        "precio": 3261,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00567700/00567744.jpg?3.0.172d",
+        "descuento": 49,
+        "stock": 340
+    },
+    {
+        "_id": "66a7d92b3b2247cf09ca0602",
+        "titulo": "Jabón en Barra",
+        "comercio": "CARREFOUR EXPRESS",
+        "precio": 5023,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00283200/00283242.jpg?3.0.172d",
+        "descuento": 53,
+        "stock": 267
+    },
+    {
+        "_id": "66a7d92b9c475928ce171417",
+        "titulo": "Detergente Líquido",
+        "comercio": "COTO",
+        "precio": 4919,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00460200/00460265.jpg?3.0.172d",
+        "descuento": 46,
+        "stock": 412
+    },
+    {
+        "_id": "66a7d92bea2bc6c1bd430354",
+        "titulo": "Té en Saquitos",
+        "comercio": "CARREFOUR EXPRESS",
+        "precio": 4171,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00127600/00127631.jpg?3.0.172d",
+        "descuento": 49,
+        "stock": 234
+    },
+    {
+        "_id": "66a7d92beaed26edadba6c61",
+        "titulo": "Café Molido",
+        "comercio": "SUPER A",
+        "precio": 5321,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00038400/00038447.jpg?3.0.172d",
+        "descuento": 43,
+        "stock": 124
+    },
+    {
+        "_id": "66a7d92b0122b711f04f04b6",
+        "titulo": "Aceitunas",
+        "comercio": "CARREFOUR EXPRESS",
+        "precio": 4184,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00262700/00262716.jpg?3.0.172d",
+        "descuento": 25,
+        "stock": 394
+    },
+    {
+        "_id": "66a7d92be202f285ee9fa7e4",
+        "titulo": "Manteca",
+        "comercio": "ATOMO",
+        "precio": 7134,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00003800/00003818.jpg?3.0.172d",
+        "descuento": 29,
+        "stock": 307
+    },
+    {
+        "_id": "66a7d92b88976f52253e395c",
+        "titulo": "Mermelada",
+        "comercio": "COTO",
+        "precio": 3916,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00120000/00120072.jpg?3.0.172d",
+        "descuento": 21,
+        "stock": 428
+    },
+    {
+        "_id": "66a7d92bd326d54f00d271ca",
+        "titulo": "Chocolate en Barra",
+        "comercio": "SUPER A",
+        "precio": 5335,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00142900/00142956.jpg?3.0.172d",
+        "descuento": 29,
+        "stock": 385
+    },
+    {
+        "_id": "66a7d92bf75d770bc89ae9fd",
+        "titulo": "Salsa de Tomate",
+        "comercio": "ATOMO",
+        "precio": 3498,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00578400/00578499.jpg?3.0.172d",
+        "descuento": 62,
+        "stock": 352
+    },
+    {
+        "_id": "66a7d92b7006713de1fecaa5",
+        "titulo": "Jugo de Naranja",
+        "comercio": "SUPER A",
+        "precio": 4061,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00239000/00239028.jpg?3.0.172d",
+        "descuento": 64,
+        "stock": 209
+    },
+    {
+        "_id": "66a7d92b9da05e85aadb6e7d",
+        "titulo": "Sopa Instantánea",
+        "comercio": "ATOMO",
+        "precio": 3521,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00531000/00531000.jpg?3.0.172d",
+        "descuento": 22,
+        "stock": 306
+    },
+    {
+        "_id": "66a7d92ba4723fd297a6315b",
+        "titulo": "Pasta de Dientes",
+        "comercio": "ATOMO",
+        "precio": 3174,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00220400/00220409.jpg?3.0.172d",
+        "descuento": 52,
+        "stock": 230
+    },
+    {
+        "_id": "66a7d92beefea5dae3c1bc15",
+        "titulo": "Bolsas de Plástico",
+        "comercio": "CARREFOUR EXPRESS",
+        "precio": 5881,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00531900/00531971.jpg?3.0.172d",
+        "descuento": 34,
+        "stock": 399
+    },
+    {
+        "_id": "66a7d92b333bedae638dd2a6",
+        "titulo": "Papel Higiénico",
+        "comercio": "CARREFOUR",
+        "precio": 5106,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00224700/00224747.jpg?3.0.172d",
+        "descuento": 37,
+        "stock": 111
+    },
+    {
+        "_id": "66a7d92be9b02b0e863ed3c6",
+        "titulo": "Galletitas Dulces",
+        "comercio": "COTO",
+        "precio": 3052,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00464200/00464225.jpg?3.0.172d",
+        "descuento": 56,
+        "stock": 365
+    },
+    {
+        "_id": "66a7d92bbd3f6576ea9afc14",
+        "titulo": "Salsa de Soja",
+        "comercio": "ATOMO",
+        "precio": 3871,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00580200/00580267.jpg?3.0.172d",
+        "descuento": 42,
+        "stock": 181
+    }
+]

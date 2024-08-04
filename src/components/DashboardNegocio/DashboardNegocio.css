@@ -1,0 +1,81 @@
+.bodyDashboard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: calc(100vh - 90px);
+  height: 100%;
+  width: 100%;
+  background-color: #f1004d;
+  padding-bottom: 15px;
+}
+.dashboard {
+  display: flex;
+  background-color: white;
+  width: 80%;
+  height: max-content;
+  border-radius: 5px;
+  padding: 15px 15px 15px 0;
+}
+.izquierdaDash {
+  border-right: 1px gray solid;
+  width: max-content;
+  height: 100%;
+}
+.tituloDashboard {
+  font-weight: bold;
+  padding: 0 15px 0 15px;
+}
+.listaDashboard {
+  list-style-type: none;
+  font-size: 20px;
+  text-align: center;
+  padding: 0;
+}
+.buttonLi {
+  border: none;
+  width: 100%;
+  border-bottom: 1px solid rgb(224, 224, 224);
+
+  background-color: white;
+  padding: 10px 0 10px 0;
+}
+.buttonLi:hover {
+  background-color: rgb(199, 199, 199);
+}
+@media (width < 800px) {
+  .dashboard {
+    width: 90%;
+    display: block;
+    padding: 5px;
+  }
+  .izquierdaDash {
+    transform: scale(0.8);
+    width: 40%;
+    display: contents;
+  }
+  .tituloDashboard {
+    text-align: center;
+  }
+  .dashDatos {
+    display: flex;
+  }
+  .ulDash {
+    padding: 0;
+    height: max-content;
+  }
+  .superior {
+    border-bottom: none;
+    margin-bottom: 10px;
+  }
+  .liProductoTablaDatos {
+    display: flex;
+    flex-direction: column;
+    border-bottom: none;
+    font-size: 12px;
+  }
+  .liDatosNegocio {
+    display: flex;
+    flex-direction: column;
+  }
+}

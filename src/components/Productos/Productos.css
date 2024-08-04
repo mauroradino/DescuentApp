@@ -1,0 +1,18 @@
+.bodyProductos {
+  background-color: #f1004d;
+}
+.gridProductos {
+  display: grid;
+  padding: 12.5%;
+  grid-template-columns: 20% 20% 20%;
+  grid-template-rows: auto;
+  gap: 20px;
+  justify-content: center;
+  padding-top: 40px;
+}
+@media (width < 800px) {
+  .gridProductos {
+    grid-template-columns: 80%;
+    grid-template-rows: auto;
+  }
+}

@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+.bodyLogin {
+  background-color: #f1004d;
+  height: 100vh;
+  padding: 10%;
+  flex-direction: column;
+  justify-content: center;
+}
+.form-signin {
+  width: 80%;
+}
+.logoLogin {
+  font-family: "Pacifico", cursive;
+  color: #f7f7f7;
+  font-size: 80px;
+}
+.h3,
+.floatingInput,
+.floatingPassword,
+.form-check-label {
+  color: white;
+}
+.form-floating {
+  margin: 10px;
+}
+.form-check {
+  margin-top: 40px;
+}
+.loginBtn {
+  margin: 0 25% 0 25%;
+}
+
+@media (width < 800px) {
+  .form-signin {
+    width: 90%;
+  }
+  .form-check {
+    margin: 20px 0 20px 0;
+  }
+}

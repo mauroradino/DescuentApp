@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+.heroDiv {
+  display: flex;
+  flex-direction: column;
+  background-color: #f1004d;
+  height: 100vh;
+  justify-content: center;
+}
+.tituloHero {
+  color: #f7f7f7;
+  font-size: 40px;
+}
+.letraLogo {
+  font-family: "Pacifico", cursive;
+  color: #f7f7f7;
+  font-size: 80px;
+}
+.lead {
+  color: white;
+  font-weight: 400;
+}
+.btn-primary {
+  background-color: white;
+  color: #f1004d;
+  border: white;
+}
+.btn-primary:hover {
+  background-color: rgb(223, 223, 223);
+  color: #d20143;
+}
+.btn-outline-secondary {
+  border: 1px solid white;
+  color: white;
+}
+.btn-outline-secondary:hover {
+  background-color: rgb(237, 237, 237);
+  color: rgb(144, 144, 144);
+}
