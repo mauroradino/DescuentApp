@@ -1,0 +1,152 @@
+[
+    {
+        "_id": "66a7d92b8085517ba2c6360f",
+        "titulo": "Arroz Integral",
+        "comercio": "SUPER A",
+        "precio": 6612,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00568400/00568490.jpg?3.0.172d",
+        "descuento": 40,
+        "stock": 325,
+        "logo": "/logo_super_a.png"
+    },
+    {
+        "_id": "66a7d92b0c9578c8289afbbf",
+        "titulo": "Aceite de Oliva",
+        "comercio": "COTO",
+        "precio": 2213,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00296100/00296136.jpg?3.0.172d",
+        "descuento": 54,
+        "stock": 196,
+        "logo": "https://adgoat-strapi-images-prod.s3.amazonaws.com/store_Logo_2786_079a12165a.png"
+    },
+    {
+        "_id": "66a7d92ba6f93d7dbd10a653",
+        "titulo": "Harina de Trigo",
+        "comercio": "ATOMO",
+        "precio": 3064,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00583900/00583951.jpg?3.0.172d",
+        "descuento": 37,
+        "stock": 238,
+        "logo": "https://images.weare365.io/filters:format(.webp)/1920x0/store_Logo_2780_74fa3b9159.png"
+    },
+    {
+        "_id": "66a7d92b5f81af7b3c0618f6",
+        "titulo": "Leche Entera",
+        "comercio": "SUPER A",
+        "precio": 2360,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00251800/00251875.jpg?3.0.172d",
+        "descuento": 57,
+        "stock": 424,
+        "logo": "/logo_super_a.png"
+    },
+    {
+        "_id": "66a7d92bb303c7da6d634a1c",
+        "titulo": "Azúcar Blanca",
+        "comercio": "COTO",
+        "precio": 3627,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00218800/00218834.jpg?3.0.172d",
+        "descuento": 63,
+        "stock": 283,
+        "logo": "https://adgoat-strapi-images-prod.s3.amazonaws.com/store_Logo_2786_079a12165a.png"
+    },
+    {
+        "_id": "66a7d92bd3375ccab1bf85cb",
+        "titulo": "Cereal de Maíz",
+        "comercio": "ATOMO",
+        "precio": 6449,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00048000/00048068.jpg?3.0.172d",
+        "descuento": 46,
+        "stock": 135,
+        "logo": "https://images.weare365.io/filters:format(.webp)/1920x0/store_Logo_2780_74fa3b9159.png"
+    },
+    {
+        "_id": "66a7d92b6b70e2fba8c7def9",
+        "titulo": "Galletas",
+        "comercio": "COTO",
+        "precio": 6437,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00553600/00553687.jpg?3.0.172d",
+        "descuento": 67,
+        "stock": 264,
+        "logo": "https://adgoat-strapi-images-prod.s3.amazonaws.com/store_Logo_2786_079a12165a.png"
+    },
+    {
+        "_id": "66a7d92b3a43b4fbd0c1bdcb",
+        "titulo": "Yogur Natural",
+        "comercio": "COTO",
+        "precio": 3261,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00567700/00567744.jpg?3.0.172d",
+        "descuento": 49,
+        "stock": 340,
+        "logo": "https://adgoat-strapi-images-prod.s3.amazonaws.com/store_Logo_2786_079a12165a.png"
+    },
+    {
+        "_id": "66a7d92b3b2247cf09ca0602",
+        "titulo": "Jabón en Barra",
+        "comercio": "CARREFOUR EXPRESS",
+        "precio": 5023,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00283200/00283242.jpg?3.0.172d",
+        "descuento": 53,
+        "stock": 267,
+        "logo": "https://express.carrefour.com.ar/img/logo/logo_express_vertical.png"
+    },
+    {
+        "_id": "66a7d92b9c475928ce171417",
+        "titulo": "Detergente Líquido",
+        "comercio": "COTO",
+        "precio": 4919,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00460200/00460265.jpg?3.0.172d",
+        "descuento": 46,
+        "stock": 412,
+        "logo": "https://adgoat-strapi-images-prod.s3.amazonaws.com/store_Logo_2786_079a12165a.png"
+    },
+    {
+        "_id": "66a7d92bea2bc6c1bd430354",
+        "titulo": "Té en Saquitos",
+        "comercio": "CARREFOUR EXPRESS",
+        "precio": 4171,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00127600/00127631.jpg?3.0.172d",
+        "descuento": 49,
+        "stock": 234,
+        "logo": "https://express.carrefour.com.ar/img/logo/logo_express_vertical.png"
+    },
+    {
+        "_id": "66a7d92beaed26edadba6c61",
+        "titulo": "Café Molido",
+        "comercio": "SUPER A",
+        "precio": 5321,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00038400/00038447.jpg?3.0.172d",
+        "descuento": 43,
+        "stock": 124,
+        "logo": "/logo_super_a.png"
+    },
+    {
+        "_id": "66a7d92b0122b711f04f04b6",
+        "titulo": "Aceitunas",
+        "comercio": "CARREFOUR EXPRESS",
+        "precio": 4184,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00262700/00262716.jpg?3.0.172d",
+        "descuento": 25,
+        "stock": 394,
+        "logo": "https://express.carrefour.com.ar/img/logo/logo_express_vertical.png"
+    },
+    {
+        "_id": "66a7d92be202f285ee9fa7e4",
+        "titulo": "Manteca",
+        "comercio": "ATOMO",
+        "precio": 7134,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00003800/00003818.jpg?3.0.172d",
+        "descuento": 29,
+        "stock": 307,
+        "logo": "https://images.weare365.io/filters:format(.webp)/1920x0/store_Logo_2780_74fa3b9159.png"
+    },
+    {
+        "_id": "66a7d92b88976f52253e395c",
+        "titulo": "Mermelada",
+        "comercio": "COTO",
+        "precio": 3916,
+        "imagen": "https://static.cotodigital3.com.ar/sitios/fotos/full/00120000/00120072.jpg?3.0.172d",
+        "descuento": 21,
+        "stock": 428,
+        "logo": "https://adgoat-strapi-images-prod.s3.amazonaws.com/store_Logo_2786_079a12165a.png"
+    }
+]
